@@ -1,0 +1,6 @@
+#ifndef PLATFORM_LINUX_H 
+#define PLATFORM_LINUX_H
+
+#define SINGLE_READ_LIMIT 8192
+
+#endif // PLATFORM_LINUX_H
